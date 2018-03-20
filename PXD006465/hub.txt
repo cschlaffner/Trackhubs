@@ -1,0 +1,5 @@
+hub PXD006465
+shortLabel PXD006465
+longLabel PXD006465
+genomesFile genomes.txt
+email christoph.schlaffner@childrens.harvard.edu

@@ -1,0 +1,480 @@
+track A-GluC-7-F005884.dat-pride.pride.pogo
+bigDataUrl A-GluC-7-F005884.dat-pride.pride.pogo.bb
+shortLabel A-GluC-7-F005884.
+longLabel A-GluC-7-F005884.dat-pride.pride.pogo
+type bigBed 12
+visibility dense
+itemRgb on
+
+track A-GluC-7-F005884.dat-pride.pride.pogo_merged
+bigDataUrl A-GluC-7-F005884.dat-pride.pride.pogo_merged.bb
+shortLabel A-GluC-7-F005884.
+longLabel A-GluC-7-F005884.dat-pride.pride.pogo_merged
+type bigBed 12
+visibility dense
+itemRgb on
+
+track A-GluC-7-F005884.dat-pride.pride.pogo_merged_no-ptm
+bigDataUrl A-GluC-7-F005884.dat-pride.pride.pogo_merged_no-ptm.bb
+shortLabel A-GluC-7-F005884.
+longLabel A-GluC-7-F005884.dat-pride.pride.pogo_merged_no-ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track A-GluC-7-F005884.dat-pride.pride.pogo_merged_ptm
+bigDataUrl A-GluC-7-F005884.dat-pride.pride.pogo_merged_ptm.bb
+shortLabel A-GluC-7-F005884.
+longLabel A-GluC-7-F005884.dat-pride.pride.pogo_merged_ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track A-GluC-7-F005884.dat-pride.pride.pogo_no-ptm
+bigDataUrl A-GluC-7-F005884.dat-pride.pride.pogo_no-ptm.bb
+shortLabel A-GluC-7-F005884.
+longLabel A-GluC-7-F005884.dat-pride.pride.pogo_no-ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track A-GluC-7-F005884.dat-pride.pride.pogo_patch_hapl_scaff
+bigDataUrl A-GluC-7-F005884.dat-pride.pride.pogo_patch_hapl_scaff.bb
+shortLabel A-GluC-7-F005884.
+longLabel A-GluC-7-F005884.dat-pride.pride.pogo_patch_hapl_scaff
+type bigBed 12
+visibility dense
+itemRgb on
+
+track A-GluC-7-F005884.dat-pride.pride.pogo_patch_hapl_scaff_merged
+bigDataUrl A-GluC-7-F005884.dat-pride.pride.pogo_patch_hapl_scaff_merged.bb
+shortLabel A-GluC-7-F005884.
+longLabel A-GluC-7-F005884.dat-pride.pride.pogo_patch_hapl_scaff_merged
+type bigBed 12
+visibility dense
+itemRgb on
+
+track A-GluC-7-F005884.dat-pride.pride.pogo_patch_hapl_scaff_merged_no-ptm
+bigDataUrl A-GluC-7-F005884.dat-pride.pride.pogo_patch_hapl_scaff_merged_no-ptm.bb
+shortLabel A-GluC-7-F005884.
+longLabel A-GluC-7-F005884.dat-pride.pride.pogo_patch_hapl_scaff_merged_no-ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track A-GluC-7-F005884.dat-pride.pride.pogo_patch_hapl_scaff_merged_ptm
+bigDataUrl A-GluC-7-F005884.dat-pride.pride.pogo_patch_hapl_scaff_merged_ptm.bb
+shortLabel A-GluC-7-F005884.
+longLabel A-GluC-7-F005884.dat-pride.pride.pogo_patch_hapl_scaff_merged_ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track A-GluC-7-F005884.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm
+bigDataUrl A-GluC-7-F005884.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm.bb
+shortLabel A-GluC-7-F005884.
+longLabel A-GluC-7-F005884.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track A-GluC-7-F005884.dat-pride.pride.pogo_patch_hapl_scaff_ptm
+bigDataUrl A-GluC-7-F005884.dat-pride.pride.pogo_patch_hapl_scaff_ptm.bb
+shortLabel A-GluC-7-F005884.
+longLabel A-GluC-7-F005884.dat-pride.pride.pogo_patch_hapl_scaff_ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track A-GluC-7-F005884.dat-pride.pride.pogo_ptm
+bigDataUrl A-GluC-7-F005884.dat-pride.pride.pogo_ptm.bb
+shortLabel A-GluC-7-F005884.
+longLabel A-GluC-7-F005884.dat-pride.pride.pogo_ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track A-LysC-7-F005886.dat-pride.pride.pogo
+bigDataUrl A-LysC-7-F005886.dat-pride.pride.pogo.bb
+shortLabel A-LysC-7-F005886.
+longLabel A-LysC-7-F005886.dat-pride.pride.pogo
+type bigBed 12
+visibility dense
+itemRgb on
+
+track A-LysC-7-F005886.dat-pride.pride.pogo_no-ptm
+bigDataUrl A-LysC-7-F005886.dat-pride.pride.pogo_no-ptm.bb
+shortLabel A-LysC-7-F005886.
+longLabel A-LysC-7-F005886.dat-pride.pride.pogo_no-ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track A-LysC-7-F005886.dat-pride.pride.pogo_patch_hapl_scaff
+bigDataUrl A-LysC-7-F005886.dat-pride.pride.pogo_patch_hapl_scaff.bb
+shortLabel A-LysC-7-F005886.
+longLabel A-LysC-7-F005886.dat-pride.pride.pogo_patch_hapl_scaff
+type bigBed 12
+visibility dense
+itemRgb on
+
+track A-LysC-7-F005886.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm
+bigDataUrl A-LysC-7-F005886.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm.bb
+shortLabel A-LysC-7-F005886.
+longLabel A-LysC-7-F005886.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track A-LysC-7-F005886.dat-pride.pride.pogo_patch_hapl_scaff_ptm
+bigDataUrl A-LysC-7-F005886.dat-pride.pride.pogo_patch_hapl_scaff_ptm.bb
+shortLabel A-LysC-7-F005886.
+longLabel A-LysC-7-F005886.dat-pride.pride.pogo_patch_hapl_scaff_ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track A-LysC-7-F005886.dat-pride.pride.pogo_ptm
+bigDataUrl A-LysC-7-F005886.dat-pride.pride.pogo_ptm.bb
+shortLabel A-LysC-7-F005886.
+longLabel A-LysC-7-F005886.dat-pride.pride.pogo_ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track A-R29-7-F005977.dat-pride.pride.pogo
+bigDataUrl A-R29-7-F005977.dat-pride.pride.pogo.bb
+shortLabel A-R29-7-F005977.d
+longLabel A-R29-7-F005977.dat-pride.pride.pogo
+type bigBed 12
+visibility dense
+itemRgb on
+
+track A-R29-7-F005977.dat-pride.pride.pogo_no-ptm
+bigDataUrl A-R29-7-F005977.dat-pride.pride.pogo_no-ptm.bb
+shortLabel A-R29-7-F005977.d
+longLabel A-R29-7-F005977.dat-pride.pride.pogo_no-ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track A-R29-7-F005977.dat-pride.pride.pogo_patch_hapl_scaff
+bigDataUrl A-R29-7-F005977.dat-pride.pride.pogo_patch_hapl_scaff.bb
+shortLabel A-R29-7-F005977.d
+longLabel A-R29-7-F005977.dat-pride.pride.pogo_patch_hapl_scaff
+type bigBed 12
+visibility dense
+itemRgb on
+
+track A-R29-7-F005977.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm
+bigDataUrl A-R29-7-F005977.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm.bb
+shortLabel A-R29-7-F005977.d
+longLabel A-R29-7-F005977.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track A-R29-7-F005977.dat-pride.pride.pogo_patch_hapl_scaff_ptm
+bigDataUrl A-R29-7-F005977.dat-pride.pride.pogo_patch_hapl_scaff_ptm.bb
+shortLabel A-R29-7-F005977.d
+longLabel A-R29-7-F005977.dat-pride.pride.pogo_patch_hapl_scaff_ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track A-R29-7-F005977.dat-pride.pride.pogo_ptm
+bigDataUrl A-R29-7-F005977.dat-pride.pride.pogo_ptm.bb
+shortLabel A-R29-7-F005977.d
+longLabel A-R29-7-F005977.dat-pride.pride.pogo_ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track B-GluC-7-F005883.dat-pride.pride.pogo
+bigDataUrl B-GluC-7-F005883.dat-pride.pride.pogo.bb
+shortLabel B-GluC-7-F005883.
+longLabel B-GluC-7-F005883.dat-pride.pride.pogo
+type bigBed 12
+visibility dense
+itemRgb on
+
+track B-GluC-7-F005883.dat-pride.pride.pogo_no-ptm
+bigDataUrl B-GluC-7-F005883.dat-pride.pride.pogo_no-ptm.bb
+shortLabel B-GluC-7-F005883.
+longLabel B-GluC-7-F005883.dat-pride.pride.pogo_no-ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track B-GluC-7-F005883.dat-pride.pride.pogo_patch_hapl_scaff
+bigDataUrl B-GluC-7-F005883.dat-pride.pride.pogo_patch_hapl_scaff.bb
+shortLabel B-GluC-7-F005883.
+longLabel B-GluC-7-F005883.dat-pride.pride.pogo_patch_hapl_scaff
+type bigBed 12
+visibility dense
+itemRgb on
+
+track B-GluC-7-F005883.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm
+bigDataUrl B-GluC-7-F005883.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm.bb
+shortLabel B-GluC-7-F005883.
+longLabel B-GluC-7-F005883.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track B-GluC-7-F005883.dat-pride.pride.pogo_patch_hapl_scaff_ptm
+bigDataUrl B-GluC-7-F005883.dat-pride.pride.pogo_patch_hapl_scaff_ptm.bb
+shortLabel B-GluC-7-F005883.
+longLabel B-GluC-7-F005883.dat-pride.pride.pogo_patch_hapl_scaff_ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track B-GluC-7-F005883.dat-pride.pride.pogo_ptm
+bigDataUrl B-GluC-7-F005883.dat-pride.pride.pogo_ptm.bb
+shortLabel B-GluC-7-F005883.
+longLabel B-GluC-7-F005883.dat-pride.pride.pogo_ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track B-LysC-7-F005891.dat-pride.pride.pogo
+bigDataUrl B-LysC-7-F005891.dat-pride.pride.pogo.bb
+shortLabel B-LysC-7-F005891.
+longLabel B-LysC-7-F005891.dat-pride.pride.pogo
+type bigBed 12
+visibility dense
+itemRgb on
+
+track B-LysC-7-F005891.dat-pride.pride.pogo_no-ptm
+bigDataUrl B-LysC-7-F005891.dat-pride.pride.pogo_no-ptm.bb
+shortLabel B-LysC-7-F005891.
+longLabel B-LysC-7-F005891.dat-pride.pride.pogo_no-ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track B-LysC-7-F005891.dat-pride.pride.pogo_patch_hapl_scaff
+bigDataUrl B-LysC-7-F005891.dat-pride.pride.pogo_patch_hapl_scaff.bb
+shortLabel B-LysC-7-F005891.
+longLabel B-LysC-7-F005891.dat-pride.pride.pogo_patch_hapl_scaff
+type bigBed 12
+visibility dense
+itemRgb on
+
+track B-LysC-7-F005891.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm
+bigDataUrl B-LysC-7-F005891.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm.bb
+shortLabel B-LysC-7-F005891.
+longLabel B-LysC-7-F005891.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track B-LysC-7-F005891.dat-pride.pride.pogo_patch_hapl_scaff_ptm
+bigDataUrl B-LysC-7-F005891.dat-pride.pride.pogo_patch_hapl_scaff_ptm.bb
+shortLabel B-LysC-7-F005891.
+longLabel B-LysC-7-F005891.dat-pride.pride.pogo_patch_hapl_scaff_ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track B-LysC-7-F005891.dat-pride.pride.pogo_ptm
+bigDataUrl B-LysC-7-F005891.dat-pride.pride.pogo_ptm.bb
+shortLabel B-LysC-7-F005891.
+longLabel B-LysC-7-F005891.dat-pride.pride.pogo_ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track B-R29-7-F005982.dat-pride.pride.pogo
+bigDataUrl B-R29-7-F005982.dat-pride.pride.pogo.bb
+shortLabel B-R29-7-F005982.d
+longLabel B-R29-7-F005982.dat-pride.pride.pogo
+type bigBed 12
+visibility dense
+itemRgb on
+
+track B-R29-7-F005982.dat-pride.pride.pogo_no-ptm
+bigDataUrl B-R29-7-F005982.dat-pride.pride.pogo_no-ptm.bb
+shortLabel B-R29-7-F005982.d
+longLabel B-R29-7-F005982.dat-pride.pride.pogo_no-ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track B-R29-7-F005982.dat-pride.pride.pogo_patch_hapl_scaff
+bigDataUrl B-R29-7-F005982.dat-pride.pride.pogo_patch_hapl_scaff.bb
+shortLabel B-R29-7-F005982.d
+longLabel B-R29-7-F005982.dat-pride.pride.pogo_patch_hapl_scaff
+type bigBed 12
+visibility dense
+itemRgb on
+
+track B-R29-7-F005982.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm
+bigDataUrl B-R29-7-F005982.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm.bb
+shortLabel B-R29-7-F005982.d
+longLabel B-R29-7-F005982.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track B-R29-7-F005982.dat-pride.pride.pogo_patch_hapl_scaff_ptm
+bigDataUrl B-R29-7-F005982.dat-pride.pride.pogo_patch_hapl_scaff_ptm.bb
+shortLabel B-R29-7-F005982.d
+longLabel B-R29-7-F005982.dat-pride.pride.pogo_patch_hapl_scaff_ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track B-R29-7-F005982.dat-pride.pride.pogo_ptm
+bigDataUrl B-R29-7-F005982.dat-pride.pride.pogo_ptm.bb
+shortLabel B-R29-7-F005982.d
+longLabel B-R29-7-F005982.dat-pride.pride.pogo_ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track C-GluC-7F005885.dat-pride.pride.pogo
+bigDataUrl C-GluC-7F005885.dat-pride.pride.pogo.bb
+shortLabel C-GluC-7F005885.d
+longLabel C-GluC-7F005885.dat-pride.pride.pogo
+type bigBed 12
+visibility dense
+itemRgb on
+
+track C-GluC-7F005885.dat-pride.pride.pogo_no-ptm
+bigDataUrl C-GluC-7F005885.dat-pride.pride.pogo_no-ptm.bb
+shortLabel C-GluC-7F005885.d
+longLabel C-GluC-7F005885.dat-pride.pride.pogo_no-ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track C-GluC-7F005885.dat-pride.pride.pogo_patch_hapl_scaff
+bigDataUrl C-GluC-7F005885.dat-pride.pride.pogo_patch_hapl_scaff.bb
+shortLabel C-GluC-7F005885.d
+longLabel C-GluC-7F005885.dat-pride.pride.pogo_patch_hapl_scaff
+type bigBed 12
+visibility dense
+itemRgb on
+
+track C-GluC-7F005885.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm
+bigDataUrl C-GluC-7F005885.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm.bb
+shortLabel C-GluC-7F005885.d
+longLabel C-GluC-7F005885.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track C-GluC-7F005885.dat-pride.pride.pogo_patch_hapl_scaff_ptm
+bigDataUrl C-GluC-7F005885.dat-pride.pride.pogo_patch_hapl_scaff_ptm.bb
+shortLabel C-GluC-7F005885.d
+longLabel C-GluC-7F005885.dat-pride.pride.pogo_patch_hapl_scaff_ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track C-GluC-7F005885.dat-pride.pride.pogo_ptm
+bigDataUrl C-GluC-7F005885.dat-pride.pride.pogo_ptm.bb
+shortLabel C-GluC-7F005885.d
+longLabel C-GluC-7F005885.dat-pride.pride.pogo_ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track C-LysC-7-F005898.dat-pride.pride.pogo
+bigDataUrl C-LysC-7-F005898.dat-pride.pride.pogo.bb
+shortLabel C-LysC-7-F005898.
+longLabel C-LysC-7-F005898.dat-pride.pride.pogo
+type bigBed 12
+visibility dense
+itemRgb on
+
+track C-LysC-7-F005898.dat-pride.pride.pogo_no-ptm
+bigDataUrl C-LysC-7-F005898.dat-pride.pride.pogo_no-ptm.bb
+shortLabel C-LysC-7-F005898.
+longLabel C-LysC-7-F005898.dat-pride.pride.pogo_no-ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track C-LysC-7-F005898.dat-pride.pride.pogo_patch_hapl_scaff
+bigDataUrl C-LysC-7-F005898.dat-pride.pride.pogo_patch_hapl_scaff.bb
+shortLabel C-LysC-7-F005898.
+longLabel C-LysC-7-F005898.dat-pride.pride.pogo_patch_hapl_scaff
+type bigBed 12
+visibility dense
+itemRgb on
+
+track C-LysC-7-F005898.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm
+bigDataUrl C-LysC-7-F005898.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm.bb
+shortLabel C-LysC-7-F005898.
+longLabel C-LysC-7-F005898.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track C-LysC-7-F005898.dat-pride.pride.pogo_patch_hapl_scaff_ptm
+bigDataUrl C-LysC-7-F005898.dat-pride.pride.pogo_patch_hapl_scaff_ptm.bb
+shortLabel C-LysC-7-F005898.
+longLabel C-LysC-7-F005898.dat-pride.pride.pogo_patch_hapl_scaff_ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track C-LysC-7-F005898.dat-pride.pride.pogo_ptm
+bigDataUrl C-LysC-7-F005898.dat-pride.pride.pogo_ptm.bb
+shortLabel C-LysC-7-F005898.
+longLabel C-LysC-7-F005898.dat-pride.pride.pogo_ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track C-R29-7-F005981.dat-pride.pride.pogo
+bigDataUrl C-R29-7-F005981.dat-pride.pride.pogo.bb
+shortLabel C-R29-7-F005981.d
+longLabel C-R29-7-F005981.dat-pride.pride.pogo
+type bigBed 12
+visibility dense
+itemRgb on
+
+track C-R29-7-F005981.dat-pride.pride.pogo_no-ptm
+bigDataUrl C-R29-7-F005981.dat-pride.pride.pogo_no-ptm.bb
+shortLabel C-R29-7-F005981.d
+longLabel C-R29-7-F005981.dat-pride.pride.pogo_no-ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track C-R29-7-F005981.dat-pride.pride.pogo_patch_hapl_scaff
+bigDataUrl C-R29-7-F005981.dat-pride.pride.pogo_patch_hapl_scaff.bb
+shortLabel C-R29-7-F005981.d
+longLabel C-R29-7-F005981.dat-pride.pride.pogo_patch_hapl_scaff
+type bigBed 12
+visibility dense
+itemRgb on
+
+track C-R29-7-F005981.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm
+bigDataUrl C-R29-7-F005981.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm.bb
+shortLabel C-R29-7-F005981.d
+longLabel C-R29-7-F005981.dat-pride.pride.pogo_patch_hapl_scaff_no-ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track C-R29-7-F005981.dat-pride.pride.pogo_patch_hapl_scaff_ptm
+bigDataUrl C-R29-7-F005981.dat-pride.pride.pogo_patch_hapl_scaff_ptm.bb
+shortLabel C-R29-7-F005981.d
+longLabel C-R29-7-F005981.dat-pride.pride.pogo_patch_hapl_scaff_ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track C-R29-7-F005981.dat-pride.pride.pogo_ptm
+bigDataUrl C-R29-7-F005981.dat-pride.pride.pogo_ptm.bb
+shortLabel C-R29-7-F005981.d
+longLabel C-R29-7-F005981.dat-pride.pride.pogo_ptm
+type bigBed 12
+visibility dense
+itemRgb on
+
