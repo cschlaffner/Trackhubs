@@ -1,0 +1,5 @@
+hub MyTrackhub
+shortLabel MyTrackhub
+longLabel MyTrackhub
+genomesFile genomes.txt
+email christoph.schlaffner@childrens.harvard.edu
